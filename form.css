@@ -1,0 +1,154 @@
+.rectangle-input {
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  position: relative;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 914px;
+  height: 82px;
+  flex-shrink: 0;
+}
+
+.label-div1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  
+  
+}
+
+.rectangle-input1 {
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  position: relative;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 914px;
+  height: 84px;
+  flex-shrink: 0;
+}
+
+.country-label {
+  cursor: pointer;
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+}
+
+.rectangle-input2 {
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: #f8f7f7;
+  position: relative; 
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 411px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+.form-div,
+.frame-div3 {
+  display: flex;
+  flex-direction: column ;
+  align-items: flex-start;
+  
+  justify-content: flex-start;
+  gap: 65px;
+  
+}
+
+.form-div {
+  position: absolute;
+  top: 150px;
+  left: 145px;
+  height:75%;
+  background-color: rgb(255, 255, 255);
+  flex-direction: row;
+   padding: 10px 50px 0px 50px; 
+  align-items: center;
+  gap: 90px;
+
+}
+
+.basic-information-label {
+  cursor: pointer;
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.basicinformation-div9 {
+  position: absolute;
+  top: 50px;
+  left: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 36px;
+  
+}
+
+.cancel-div {
+  position: relative;
+  font-size: 24px;
+  line-height: 16px;
+  font-family: "Open Sans";
+  color: rgb(246, 246, 246);
+  text-align: left;
+  display: inline-block;
+  
+}
+
+.buttonstyle,
+.buttonrow-div11 {
+  margin-top: 90px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  display: flex;
+  
+}
+
+.buttonstyle {
+  cursor: pointer;
+  border: 0;
+  padding: 22px 42px;
+  background-color: #575757;
+  box-sizing: border-box;
+
+}
+
+.buttonrow-div11 {
+  gap: 39px;
+  
+}
+
+.button-div10 {
+  position: absolute;
+  top: 765px;
+  left: 1490px;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.vendor-det {
+  position: absolute;
+  background-color: #d6d6d7;
+  width: 100%;
+  height: 1029px;
+  display: flex;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Open Sans";
+}
+ 
+  
+  
